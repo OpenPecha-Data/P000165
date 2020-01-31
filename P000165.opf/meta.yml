@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །སངས་རྒྱས་མཉན་སྤྲུལ་དགུ་པའི་རྣམ་ཐར་མདོར་བསྡུས་དད་པའི་ས་བོན་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-04
+  layers:
+  - book_title
+  - author
+web_metadata:
+  title:
+    en: A Concise Biography of the Ninth Sangye Nyempa Rinpoche Geleg Drupai Nyima
+    bo: སངས་རྒྱས་མཉན་སྤྲུལ་དགུ་པའི་རྣམ་ཐར་མདོར་བསྡུས་དད་པའི་ས་བོན་བཞུགས་སོ།
+  collection:
+    en: Dilgo Khyentse Series–  Book 4
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༤
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-04
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-04.epub
+  description:
+    en: ''
+    bo: ''
