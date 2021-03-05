@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000165
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སངས་རྒྱས་མཉན་སྤྲུལ་དགུ་པའི་རྣམ་ཐར་མདོར་བསྡུས་དད་པའི་ས་བོན་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-04
   layers:
   - book_title
   - author
+  id: SHE-DKR-04
 web_metadata:
   title:
     en: A Concise Biography of the Ninth Sangye Nyempa Rinpoche Geleg Drupai Nyima
